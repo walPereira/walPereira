@@ -1,4 +1,5 @@
 
+![snake gif](https://github.com/walPereira/walPereira/blob/output/github-contribution-grid-snake.gif)
 ### Hello World 👋,
 
 <!-- Presentation -->
