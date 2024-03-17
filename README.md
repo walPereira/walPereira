@@ -1,3 +1,5 @@
+![snake gif](https://github.com/walPereira/walPereira/blob/output/github-contribution-grid-snake.gif)
+
 ### Hello World 👋,
 
 <!-- Presentation -->
@@ -44,8 +46,8 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"/>
-</div><br>
-![snake gif](https://github.com/walPereira/walPereira/blob/output/github-contribution-grid-snake.gif)
+</div>
+
 
 
 
