@@ -4,7 +4,7 @@
 
 <!-- Presentation -->
 <p>
-    Hi 👋, I'm Waldemir! I'm Waldemir! a mobile developer from Brazil.
+    Hi 👋, I'm Waldemir a mobile developer from Brazil.
 
   - 🌱 I'm currently studying Solutions Architecture at FIAP 🚀🚀
 
