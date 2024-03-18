@@ -29,7 +29,8 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Flutter - Music Aplication](https://github.com/)
+- [Music Stars](https://github.com/walPereira/music_stars)
+- [My Way Should Be](https://github.com/walPereira/my_way_should_be)
 
 
 ## 🔥 Skills
