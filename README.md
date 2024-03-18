@@ -30,7 +30,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [Music Stars](https://github.com/walPereira/music_stars)
-- [My Way Should Be](https://github.com/walPereira/my_way_should_be)
+- [My Developer Mindset](https://github.com/walPereira/my_developer_mindset)
 
 
 ## 🔥 Skills
