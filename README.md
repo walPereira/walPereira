@@ -29,7 +29,6 @@
 ## Portfolio:
 - [Music Stars](https://github.com/walPereira/music_stars)(Building...)
 - [My Developer Mindset](https://github.com/walPereira/my_developer_mindset)(Building...)
-- [Game Levy](https://github.com/walPereira/gameLevy)
 
 
 ## 🔥 Skills
