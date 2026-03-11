@@ -29,7 +29,7 @@
 ## Portfolio:
 - [Music Stars](https://github.com/walPereira/music_stars)(Building...)
 - [My Developer Mindset](https://github.com/walPereira/my_developer_mindset)(Building...)
-- [Your Fitness](https://github.com/walPereira/my_developer_mindset)(Building...)
+- [Your Fitness](https://github.com/walPereira/Your-Fitness)(Building...)
 
 
 
